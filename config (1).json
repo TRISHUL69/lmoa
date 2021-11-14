@@ -1,0 +1,30 @@
+{   
+	"token": "",
+	"prefix": "$",
+
+    "self_bot_name": "SLAYER SELFBOT",
+    "messagelogger": false,
+    "message_edit_logger": "True",
+
+    "afk_default": false,
+    "afk_message": "Atomic Is Afk rn, please check back later.",
+
+    "defualtcolor": "0x2f3136",
+    "help_gif": "https://cdn.discordapp.com/avatars/852920947334053928/a_940599b06e2a896193e1980a19e49616.gif",
+    "nitrosniper": true,
+
+    "channeln": ["RisinPlayZ runs you", "RisinPlayZ Beamed You", "wizzed by RisinPlayZ"],
+    "servername": "AtomicPlayZ wizzed u",
+    "servericon": "LINK HERE",
+    "rolenames": ["Beamed By RisinPlayZ", "RisinPlayZ runs yall"],
+    "webhooknames": ["RisinPlayZ RUNS ALL", "RisinPlayZ RUNS CORD", "BEAMED BY RisinPlayZ"],
+    "webhookmessages": ["@everyone RisinPlayZ RUNS YOU https://discord.gg/spyop", "@everyone GET PROTECTION"],
+    "rolecolors": ["743dc0", "49c03d", "cc1b1b", "151212", "f47fff", "d9643b", "a81e7f", "3522c9", "8e63df", "ff60f0", "584b1a", "7b83be", "4836eb", "53cde0", "502382", "0c9f39", "033938", "c6dcca", "0283d5", "f16911", "17b053", "bcdf01", "42066e", "b5e19a", "8da299", "f50b3e"],
+    "messagespam": ["RisinPlayZ runs you @everyone", "@everyone RisinPlayZ RUNS YOU"],
+
+    "stream_url": "https://www.twitch.tv/RisinPlayz", 
+    "activity": "online",
+    "statustype": "STREAMING",
+    "status": "AtomicPlayZ Op"
+
+}
